@@ -5,7 +5,7 @@ All files in metric.
 
 Recommended foam thickness of 3mm, max of 4.
 
-Max plate thickness is 2mm unless you use flat head screws and coutnersink them in the plate.
+Max plate thickness is 2mm unless you use flat head screws and countersink them in the plate.
 
 Plate foam and plate files are non-ISO versions for now, may upload ISO version at some point.
 
